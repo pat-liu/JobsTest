@@ -38,6 +38,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Akuna Capital                                                                                   | Chicago, IL; Austin, TX; Boston, MA | **🔒 Closed 🔒** Quant Trading, SWE         (sponsorship available)                                                                              |
 | Amazon Robotics | Greater Boston, MA | **🔒 Closed 🔒** Software Development Engineer |
 | Apple          | Cupertino, CA                                  | **🔒 Closed 🔒** [SWE](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT), [Hardware](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                                                  |
+| Ericsson | Santa Clara, CA | **🔒 Closed 🔒** Software Engineering Intern, Data Science Intern |
+| Twitch | San Francisco, CA | **🔒 Closed 🔒** Graduate Science Intern |
+| Accenture | Multiple Locations in the US |  **🔒 Closed 🔒** Summer Analyst - Technology Development Program |
 
 
 <!-- Please leave a one line gap between this and the table -->

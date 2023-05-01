@@ -41,6 +41,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Ericsson | Santa Clara, CA | **🔒 Closed 🔒** Software Engineering Intern, Data Science Intern |
 | Twitch | San Francisco, CA | **🔒 Closed 🔒** Graduate Science Intern |
 | Accenture | Multiple Locations in the US |  **🔒 Closed 🔒** Summer Analyst - Technology Development Program |
+| Palantir| Multiple Locations in United States | **🔒 Closed 🔒** Software Engineering Internship |
+| Tower Research Capital| New York, NY, Chicago, IL | **🔒 Closed 🔒** Quantitative Trader, Quantitative Developer | |
 
 
 <!-- Please leave a one line gap between this and the table -->

@@ -40,9 +40,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Apple          | Cupertino, CA                                  | **🔒 Closed 🔒** [SWE](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT), [Hardware](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                                                  |
 | Ericsson | Santa Clara, CA | **🔒 Closed 🔒** Software Engineering Intern, Data Science Intern |
 | Twitch | San Francisco, CA | **🔒 Closed 🔒** Graduate Science Intern |
-| Accenture | Multiple Locations in the US |  **🔒 Closed 🔒** Summer Analyst - Technology Development Program |
-| Palantir| Multiple Locations in United States | **🔒 Closed 🔒** Software Engineering Internship |
-| Tower Research Capital| New York, NY, Chicago, IL | **🔒 Closed 🔒** Quantitative Trader, Quantitative Developer | |
 | [Citadel](https://www.citadel.com/careers/open-opportunities/students/internships/)| Chicago, New York | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) and [Quant Research Analyst](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us-2/)|
 
 <!-- Please leave a one line gap between this and the table -->

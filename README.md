@@ -43,6 +43,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Exact Sciences | Phoenix, AZ | **🔒 Closed 🔒** Software Engineer Intern |
 | Keysight Technologies | Santa Rosa, CA | **🔒 Closed 🔒** Various Positions |
 | Insitro |SF, CA | **🔒 Closed 🔒** Software Engineering Intern|
+| L3Harris Technologies | Amityville, NY | **🔒 Closed 🔒** Software Engineer Intern (US Government Security Clearance needed)
+| Pixar Animation Studios | Emeryville, CA | **🔒 Closed 🔒** Software Engineer Intern (no visa sponsorship)
+| PNC| Various | **🔒 Closed 🔒** Technology Summer Intern Program |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)

@@ -38,6 +38,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Apple          | Cupertino, CA                                  | **🔒 Closed 🔒** [SWE](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT), [Hardware](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                                                  |
 | Ericsson | Santa Clara, CA | Software Engineering Intern, Data Science Intern |
 | [Citadel](https://www.citadel.com/careers/open-opportunities/students/internships/)| Chicago, New York | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) and [Quant Research Analyst](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us-2/)|
+| GoDaddy | Multiple Locations, Remote | **🔒 Closed 🔒** Multiple Intern Position |
+| Ridgeline | Incline Village, NV | **🔒 Closed 🔒** Software Engineer Intern (No visa sponsorships) |
+| Exact Sciences | Phoenix, AZ | **🔒 Closed 🔒** Software Engineer Intern |
+| Keysight Technologies | Santa Rosa, CA | **🔒 Closed 🔒** Various Positions |
+| Insitro |SF, CA | **🔒 Closed 🔒** Software Engineering Intern|
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
